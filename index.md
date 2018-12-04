@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="profile.JPG">
 
 Hi! I am a analyst at Goldman Sachs in Bengaluru.
 
