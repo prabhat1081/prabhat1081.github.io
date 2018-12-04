@@ -11,7 +11,7 @@ Hi! I am a analyst at Goldman Sachs in Bengaluru.
 I have a B.Tech (Hons.) in Computer Science and Engineering from Indian Institute of Technology, Kharagpur.
  
 
-## Research Interest
+## Research Interests
 
 Machine Learning, Natural Language Processing, Information Retrieval
 
