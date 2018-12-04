@@ -21,6 +21,5 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [LinkedIn](#)
+1. [Twitter](https://twitter.com/agrwalprabhat)
+2. [LinkedIn](https://linkedin.com/in/agarwal-prabhat)
