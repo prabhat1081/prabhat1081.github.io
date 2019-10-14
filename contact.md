@@ -11,11 +11,13 @@ is_contact: true
 
 ## Mailing Address
 
-> 72, Khetra Mitra Lane, Salkia
+> 781 Escondido Road
 >
-> Howrah - 711106
+> 1004B, Blackwelder Highrise
 >
-> India
+> Stanford, CA 94305
+>
+> USA
 
 ---
 
