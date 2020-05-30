@@ -14,7 +14,7 @@ I have a B.Tech (Hons.) in Computer Science and Engineering from Indian Institut
 
 ## Research Interests
 
-Machine Learning, Natural Language Processing, Information Retrieval
+Machine Learning, Natural Language Processing, Graph Representation Learning
 
 ## Publications
 
