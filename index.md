@@ -6,9 +6,10 @@ layout: default
 
 <img class="profile-picture" src="profile2.jpg">
 
-Hi! I am a analyst at Goldman Sachs in Bengaluru.
+Hi! I am a Computer Science Master's student (2019-2021) at Stanford University. I am interested in machine learning, specifically in the field of natural language processing and graph representation learning. I currently work part-time in Prof. Jure's SNAP lab as a research assistant on using graph representation learning and NLP to improve clinical trial safety and efficacy. I am also interested in multiligual NLP escpecially for low resource languages and multimodal deep learning.
 
-I have a B.Tech (Hons.) in Computer Science and Engineering from Indian Institute of Technology, Kharagpur.
+
+I have a B.Tech (Hons.) in Computer Science and Engineering from Indian Institute of Technology, Kharagpur and have worked at Goldman Sachs Bangalore as an analyst for two year prior to joining the master's program at Stanford.
  
 
 ## Research Interests
